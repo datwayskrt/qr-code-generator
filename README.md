@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# QR Code Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![QR](https://user-images.githubusercontent.com/49740149/171761492-25e7bc68-761c-4f9a-932b-b037fe741b82.PNG)
 
 ## Available Scripts
 
